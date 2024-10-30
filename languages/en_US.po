@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpressous-weather\n"
+"POT-Creation-Date: 2015-07-03 12:14+0600\n"
+"PO-Revision-Date: 2015-07-03 12:15+0600\n"
+"Last-Translator: \n"
+"Language-Team: Wordpressous <rashedamin87@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: L:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\wordpressous-weather\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wordpressous-weather.php:25
+msgid "Weather Today"
+msgstr "Weather Today"
+
+#: wordpressous-weather.php:26
+msgid "An Awesome Widget for knowing today's weather"
+msgstr "An Awesome Widget for knowing today's weather"
+
+#: wordpressous-weather.php:115
+msgid "Title:"
+msgstr "Title:"
+
+#: wordpressous-weather.php:118
+msgid "Choose a Background Color for Widget"
+msgstr "Choose a Background Color for Widget"
+
+#: wordpressous-weather.php:121
+msgid "Choose a Font Color for Widget"
+msgstr "Choose a Font Color for Widget"
